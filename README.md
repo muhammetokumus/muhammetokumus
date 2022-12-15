@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
-- 🌱 I’m currently learning **Asp.Net**
+- 🌱 I’m currently learning **.Net**
 
 - 📫 How to reach me **okumusmuhammed15@gmail.com**
 
