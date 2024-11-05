@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
-- 🌱 I’m Software Developer
 
+- 🌱 I’m Software Developer
 - 📫 How to reach me **okumusmuhammed15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
