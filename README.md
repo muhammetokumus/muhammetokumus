@@ -20,4 +20,6 @@
 <a href="#" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="#" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="netcore" width="40" height="40"/> </a>
 <a href="#" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="ef" width="40" height="40"/> </a>
+  <a href="#" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="#" rel="noreferrer"> <img src="https://images.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" alt="api" width="40" height="40"/> </a>
 </p>
